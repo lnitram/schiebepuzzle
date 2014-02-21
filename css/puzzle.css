@@ -1,0 +1,15 @@
+#puzzle {
+  margin-left:10px;
+  width:380px;
+}
+
+#puzzle div.piece {
+  background-image:url('../img/puzzle.jpg');
+  background-repeat:no-repeat;
+  float:left;
+}
+
+#puzzle div.empty_piece {
+  float:left;
+  background:#C0C0C0;
+}
