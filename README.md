@@ -9,4 +9,4 @@ Verwendung nur nach vorheriger Absprache:
 
 
 Beispiel:
-[www.elbebilder.de/schiebepuzzle](http://www.elbebilder.de/schiebepuzzle/)
+[www.elbebilder.de/spiele/schiebepuzzle/](http://www.elbebilder.de/spiele/schiebepuzzle/)
